@@ -18,7 +18,7 @@ Voor de OBA heb ik een nieuwe omgeving gebouwd voor 'mijn OBA'. Als je in de men
 
 <img width="1470" alt="Schermafbeelding 2022-10-13 om 14 51 41" src="https://user-images.githubusercontent.com/112861488/195602128-bc5bd20e-ce35-43e5-aa4d-96a5ae4e1552.png">
 
-![Schermafbeelding 2022-11-24 om 15 36 22](https://user-images.githubusercontent.com/112861488/209314956-845e6b4b-38a8-46df-ab3f-b3d6bad7202e.jpeg)
+<img width="1470" alt="Schermafbeelding 2022-11-29 om 12 40 40" src="https://user-images.githubusercontent.com/112861488/209315141-c442b255-d692-4df4-bd66-dc47ed183a15.png">
 
 <img width="1470" alt="Schermafbeelding 2022-11-29 om 12 40 48" src="https://user-images.githubusercontent.com/112861488/209314974-9c4a62f0-382f-49ab-a215-ba4ab66a3702.png">
 
